@@ -23,8 +23,8 @@ let str = `⟥⟝⟢⟨ *𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻�
 ➟ *ғᴇᴄʜᴀ:➟${date}*
 ➟ *ᴛɪᴇᴍᴘᴏ:➟${uptime}* 
 ➟ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}*
-➟ *ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* *https://atom.bio/ofc_yovani_hades*
-⬒ ─⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⟣─ ⬒
+➟ *ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* *https://youtu.be/FT34MxWOOzg*
+⬒ ─⟢⟨©Milk bot﹏✍⟩⟣─ ⬒
 
 ⬒ ─⟢⟨ *CHATGPT* ⟩⟣─ ⬒
 ➟ *.ia chatgpt*
