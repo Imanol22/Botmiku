@@ -8,13 +8,13 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['18299171465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['18299171465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
 ];
-global.suittag =['5212412477467'];
+global.suittag =['19379696265'];
 global.mods = []
-global.prems = ['5212412474767'];
-global.reportes_solicitudes = ['5212412377467'];
+global.prems = ['19379696265'];
+global.reportes_solicitudes = ['19379696265'];
 
 global.openai_key = 'sk-0';
 
@@ -56,23 +56,23 @@ global.APIKeys = {
   'https://api.itsrose.site': 'Rs-Zeltoria',
   'https://api-xcoders.site': 'Frieren',
 };
-global.packname = '⬒⟢⟨𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰⟩⟣⬒'
-global.author = '⬒⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⬒'
+global.packname = '⬒⟢⟨𝐌𝐢𝐥𝐤 🄱🄾🅃⟩⟣⬒'
+global.author = '⬒⟢⟨© Ima el mejor ✍⟩⬒'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⬒⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⬒'
+global.gt = '⬒⟢⟨©ᴏғᴄ-ima﹏✍⟩⬒'
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://youtu.be/FT34MxWOOzg'
 global.youtube = yt
 global.ig = 'https://www.instagram'
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt'
+global.nn = 'https://chat.whatsapp.com/KmuYHaSvznDF2biEe3J2ft'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/KmuYHaSvznDF2biEe3J2ft'
 global.nnngrupo = nnn
-global.paypal = 'https://pay'
+global.paypal = 'https://www.paypal.me/imaaa55'
 global.donar = paypal
 global.rg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.resultado = rg
